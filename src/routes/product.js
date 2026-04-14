@@ -15,7 +15,7 @@ ProductRouter.post("/", async (req,res)=>{
 
         if (!name || !price, !description ,!category) {
             return res.status(400).json({
-                message:"Name, price or description or category required",
+                message:"Name, price,description or category required",
             });
         }
 
