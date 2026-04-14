@@ -65,28 +65,5 @@ Response:
         "category": "Electronics",
         "__v": 0
     },
-    {
-        "_id": "69de42845e51904a01125d3d",
-        "name": "Samsung Galaxy S2224",
-        "price": 950,
-        "description": "Latest Samsung flagship smartphone with AI features",
-        "category": "Electronics",
-        "__v": 0
-    },
-    {
-        "_id": "69de42945e51904a01125d3e",
-        "name": "Samsung Galaxy S10",
-        "price": 950,
-        "description": "Latest Samsung flagship smartphone with AI features",
-        "category": "Electronics",
-        "__v": 0
-    },
-    {
-        "_id": "69de453b5e51904a01125d3f",
-        "name": "Samsung Galaxy S10",
-        "price": 950,
-        "description": "Latest Samsung flagship smartphone with AI features",
-        "category": "Electronnics",
-        "__v": 0
-    }
+
 ]
